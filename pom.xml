@@ -70,7 +70,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>SpringJpaGitJenDoc</finalName>
+		<finalName>springjpagitjendoc</finalName>
 	</build>
 
 </project>
